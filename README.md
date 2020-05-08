@@ -2,7 +2,7 @@
 
 ### Currently Deployed At:
 
-www.newsgridapp.netlify.app
+https://newsgridapp.netlify.app
 
 ### Description
 
